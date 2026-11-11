@@ -104,3 +104,8 @@ A document workflow platform that combines document requests, electronic signatu
 ## Let's Work Together
 
 If you need help with a SaaS product, billing integration, or a full stack web app, feel free to reach out on Upwork.
+
+## 📫 Get in touch
+
+- **UpWork Profile:** [Arvind Verma](https://www.upwork.com/freelancers/~01acfe4bc5ff805def)
+- **Email:** [arvindeng.verma@gmail.com](mailto:arvindeng.verma@gmail.com)
