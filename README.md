@@ -16,6 +16,7 @@ Senior Full Stack Developer with 15+ years of experience building SaaS platforms
 | 4 | [District Groove](#4-district-groove) | Full Stack Developer | Laravel | [districtgroove.com](https://www.districtgroove.com/) |
 | 5 | [TrackMyDocs](#5-trackmydocs) | Full Stack Developer | Angular, Laravel, MySQL | [trackmydocs.co](https://trackmydocs.co/) |
 | 6 | [Sweet Crumbs](#6-sweet-crumbs--artisan-bakery-website) | UI/UX Designer & Frontend Developer | HTML, CSS, JavaScript | — |
+| 7 | [AutoGlow Car Care](#7-autoglow-car-care--car-wash--detailing-website) | UI/UX Designer & Frontend Developer | React | — |
 
 ---
 
@@ -127,6 +128,36 @@ A website template for a bakery and cake shop. I designed and built it from scra
 <summary><b>Full Page Preview</b> (click to expand)</summary>
 
 ![Sweet Crumbs - Full Page](screenshots/sweetcrumbs-full.jpg)
+
+</details>
+
+---
+
+## 7. AutoGlow Car Care — Car Wash & Detailing Website
+
+**Role:** UI/UX Designer & Frontend Developer
+**Tech Stack:** React
+
+A website template for a car wash and detailing studio. I designed it and built it in React using reusable components. It has a clean, dark, premium look that suits the business. The layout is fully responsive, so it works well on phones, tablets, laptops, and large screens.
+
+**Key features:**
+- Mobile-first, responsive layout that adapts to any screen size
+- Reusable React components for service cards, testimonials, stats, and call-to-action blocks
+- Hero section with a featured package card and quick trust points
+- Stats counters for vehicles cleaned, years of experience, and customer satisfaction
+- Services showcase with a featured service and a list of popular services with prices and timings
+- Before/after slider that lets visitors drag a handle to compare paint correction results
+- "Three simple steps" booking flow and a "Why choose us" section
+- Testimonial carousel, booking banner with a WhatsApp chat option, and a footer with opening hours
+
+**Hero Section**
+
+![AutoGlow Car Care - Hero Section](screenshots/autoglow-hero.jpg)
+
+<details>
+<summary><b>Full Page Preview</b> (click to expand)</summary>
+
+![AutoGlow Car Care - Full Page](screenshots/autoglow-full.jpg)
 
 </details>
 
