@@ -15,7 +15,7 @@ Senior Full Stack Developer with 15+ years of experience building SaaS platforms
 | 3 | [Bigtoe](#3-bigtoe) | Frontend Developer | React | [bigtoe.yoga](https://www.bigtoe.yoga/) |
 | 4 | [District Groove](#4-district-groove) | Full Stack Developer | Laravel | [districtgroove.com](https://www.districtgroove.com/) |
 | 5 | [TrackMyDocs](#5-trackmydocs) | Full Stack Developer | Angular, Laravel, MySQL | [trackmydocs.co](https://trackmydocs.co/) |
-| 6 | [Sweet Crumbs](#6-sweet-crumbs--artisan-bakery-website) | UI/UX Designer & Frontend Developer | HTML, CSS, JavaScript | — |
+| 6 | [Sweet Crumbs](#6-sweet-crumbs--artisan-bakery-website) | UI/UX Designer & Frontend Developer | HTML, CSS, JavaScript | [sweet-crumbs-bakery-beta.vercel.app](https://sweet-crumbs-bakery-beta.vercel.app/) |
 | 7 | [AutoGlow Car Care](#7-autoglow-car-care--car-wash--detailing-website) | UI/UX Designer & Frontend Developer | React | [car-wash-react-componet.vercel.app](https://car-wash-react-componet.vercel.app/) |
 
 ---
@@ -107,6 +107,7 @@ A document workflow platform that combines document requests, electronic signatu
 
 **Role:** UI/UX Designer & Frontend Developer
 **Tech Stack:** HTML, CSS, JavaScript
+**Live Link:** [https://sweet-crumbs-bakery-beta.vercel.app/](https://sweet-crumbs-bakery-beta.vercel.app/)
 
 A website template for a bakery and cake shop. I designed and built it from scratch, aiming for a warm, premium look that still feels easy to shop. It works well for bakeries, cake studios, and dessert brands that want to take orders online.
 
