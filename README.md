@@ -16,7 +16,7 @@ Senior Full Stack Developer with 15+ years of experience building SaaS platforms
 | 4 | [District Groove](#4-district-groove) | Full Stack Developer | Laravel | [districtgroove.com](https://www.districtgroove.com/) |
 | 5 | [TrackMyDocs](#5-trackmydocs) | Full Stack Developer | Angular, Laravel, MySQL | [trackmydocs.co](https://trackmydocs.co/) |
 | 6 | [Sweet Crumbs](#6-sweet-crumbs--artisan-bakery-website) | UI/UX Designer & Frontend Developer | HTML, CSS, JavaScript | — |
-| 7 | [AutoGlow Car Care](#7-autoglow-car-care--car-wash--detailing-website) | UI/UX Designer & Frontend Developer | React | — |
+| 7 | [AutoGlow Car Care](#7-autoglow-car-care--car-wash--detailing-website) | UI/UX Designer & Frontend Developer | React | [car-wash-react-componet.vercel.app](https://car-wash-react-componet.vercel.app/) |
 
 ---
 
@@ -137,6 +137,7 @@ A website template for a bakery and cake shop. I designed and built it from scra
 
 **Role:** UI/UX Designer & Frontend Developer
 **Tech Stack:** React
+**Live Link:** [https://car-wash-react-componet.vercel.app/](https://car-wash-react-componet.vercel.app/)
 
 A website template for a car wash and detailing studio. I designed it and built it in React using reusable components. It has a clean, dark, premium look that suits the business. The layout is fully responsive, so it works well on phones, tablets, laptops, and large screens.
 
