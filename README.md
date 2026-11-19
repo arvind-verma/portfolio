@@ -15,6 +15,7 @@ Senior Full Stack Developer with 15+ years of experience building SaaS platforms
 | 3 | [Bigtoe](#3-bigtoe) | Frontend Developer | React | [bigtoe.yoga](https://www.bigtoe.yoga/) |
 | 4 | [District Groove](#4-district-groove) | Full Stack Developer | Laravel | [districtgroove.com](https://www.districtgroove.com/) |
 | 5 | [TrackMyDocs](#5-trackmydocs) | Full Stack Developer | Angular, Laravel, MySQL | [trackmydocs.co](https://trackmydocs.co/) |
+| 6 | [Sweet Crumbs](#6-sweet-crumbs--artisan-bakery-website) | UI/UX Designer & Frontend Developer | HTML, CSS, JavaScript | — |
 
 ---
 
@@ -98,6 +99,36 @@ A dance studio website where users can browse class options, view the class sche
 A document workflow platform that combines document requests, electronic signatures, flexible payment options, identity verification, and custom storage options. Every request can be tracked from start to finish.
 
 ![TrackMyDocs - Home Page](screenshots/trackmydocs.png)
+
+---
+
+## 6. Sweet Crumbs — Artisan Bakery Website
+
+**Role:** UI/UX Designer & Frontend Developer
+**Tech Stack:** HTML, CSS, JavaScript
+
+A website template for a bakery and cake shop. I designed and built it from scratch, aiming for a warm, premium look that still feels easy to shop. It works well for bakeries, cake studios, and dessert brands that want to take orders online.
+
+**Key features:**
+- Hero section with a featured bestseller card, "out of the oven" timing badge, and customer rating
+- Product grid with category filters (cakes, cupcakes, cookies, pastries), discount and bestseller tags, wishlist, and add-to-basket
+- Bestseller spotlight section with product details and pricing
+- "Freshly baked today" hourly timeline that shows what comes out of the oven and when
+- Birthday collection banner that bundles cakes, cupcakes, and decoration kits
+- "Why choose us" section with key highlights and stats counters
+- Customer testimonial slider, Instagram gallery, and newsletter signup
+- Full footer with shop links, contact details, and opening hours
+
+**Hero Section**
+
+![Sweet Crumbs - Hero Section](screenshots/sweetcrumbs-hero.png)
+
+<details>
+<summary><b>Full Page Preview</b> (click to expand)</summary>
+
+![Sweet Crumbs - Full Page](screenshots/sweetcrumbs-full.jpg)
+
+</details>
 
 ---
 
