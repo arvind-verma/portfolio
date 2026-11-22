@@ -230,6 +230,8 @@ A website for Spasation Salon & Spa, a beauty spa and hair salon with three loca
 
 A WordPress website for NYOMS (Steven R. Schwartz, DDS), an oral and maxillofacial surgery practice in Brooklyn, New York. The practice diagnoses and treats conditions, injuries, and aesthetic concerns of the mouth, teeth, jaws, and face, so the site needed to explain these procedures clearly and make it easy for patients and referring dentists to get in touch.
 
+**Practice specialties covered on the site:** dental implants (including all phases of hard and soft tissue grafting), dento-alveolar surgery, and outpatient anesthesia.
+
 **Key features:**
 - Full-screen video hero with the practice name and specialty
 - Top bar with phone number, office hours, address, and social links (Facebook, Google, Yelp)
