@@ -17,6 +17,7 @@ Senior Full Stack Developer with 15+ years of experience building SaaS platforms
 | 5 | [TrackMyDocs](#5-trackmydocs) | Full Stack Developer | Angular, Laravel, MySQL | [trackmydocs.co](https://trackmydocs.co/) |
 | 6 | [Sweet Crumbs](#6-sweet-crumbs--artisan-bakery-website) | UI/UX Designer & Frontend Developer | HTML, CSS, JavaScript | [sweet-crumbs-bakery-beta.vercel.app](https://sweet-crumbs-bakery-beta.vercel.app/) |
 | 7 | [AutoGlow Car Care](#7-autoglow-car-care--car-wash--detailing-website) | UI/UX Designer & Frontend Developer | React | [car-wash-react-componet.vercel.app](https://car-wash-react-componet.vercel.app/) |
+| 8 | [BR Traders](#8-br-traders--used-car-dealership-website) | Full Stack Developer | React, TypeScript, Tailwind CSS, Node.js | [br-traders-ten.vercel.app](https://br-traders-ten.vercel.app/) |
 
 ---
 
@@ -160,6 +161,37 @@ A website template for a car wash and detailing studio. I designed it and built 
 <summary><b>Full Page Preview</b> (click to expand)</summary>
 
 ![AutoGlow Car Care - Full Page](screenshots/autoglow-full.jpg)
+
+</details>
+
+---
+
+## 8. BR Traders — Used Car Dealership Website
+
+**Role:** Full Stack Developer (design, development, and deployment)
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Framer Motion, React Router, Node.js (Vercel serverless), Nodemailer, Cloudflare Turnstile
+**Live Link:** [https://br-traders-ten.vercel.app/](https://br-traders-ten.vercel.app/)
+
+A client website for BR Traders, a used car dealer on the Zirakpur–Kalka Highway in Punjab. The business buys and sells cars on commission, so the site is built to show available cars clearly and make it easy for buyers to get in touch by call, WhatsApp, or the enquiry form. I handled the design, the React frontend, the contact form backend, and the Vercel setup.
+
+**Key features:**
+- Four pages (Home, About Us, Reviews, Contact) with smooth page transitions
+- Car listings with SUV, sedan, and hatchback filters, and a details popup showing year, fuel, transmission, kilometres, and price
+- WhatsApp enquiry buttons on every car, plus a floating WhatsApp button and click-to-call
+- Contact form backed by a Vercel serverless function that emails each enquiry to the owner
+- Spam protection on the form with Cloudflare Turnstile, rate limiting, and a hidden bot check
+- Customer review carousel, Google Maps location, and opening hours
+- All business details kept in one config file, so phone, address, and hours are easy to update
+- Fully responsive layout with a mobile menu and touch-friendly buttons
+
+**Home Page**
+
+![BR Traders - Home Page](screenshots/brtraders-hero.jpg)
+
+<details>
+<summary><b>About Us Page</b> (click to expand)</summary>
+
+![BR Traders - About Us Page](screenshots/brtraders-about.jpg)
 
 </details>
 
