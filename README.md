@@ -18,6 +18,7 @@ Senior Full Stack Developer with 15+ years of experience building SaaS platforms
 | 6 | [Sweet Crumbs](#6-sweet-crumbs--artisan-bakery-website) | UI/UX Designer & Frontend Developer | HTML, CSS, JavaScript | [sweet-crumbs-bakery-beta.vercel.app](https://sweet-crumbs-bakery-beta.vercel.app/) |
 | 7 | [AutoGlow Car Care](#7-autoglow-car-care--car-wash--detailing-website) | UI/UX Designer & Frontend Developer | React | [car-wash-react-componet.vercel.app](https://car-wash-react-componet.vercel.app/) |
 | 8 | [BR Traders](#8-br-traders--used-car-dealership-website) | Full Stack Developer | React, TypeScript, Tailwind CSS, Node.js | [br-traders-ten.vercel.app](https://br-traders-ten.vercel.app/) |
+| 9 | [Spasation](#9-spasation--salon--spa-website) | WordPress Developer | WordPress, Elementor, Zenoti | [spasation.com](https://www.spasation.com/) |
 
 ---
 
@@ -194,6 +195,29 @@ A client website for BR Traders, a used car dealer on the Zirakpur–Kalka Highw
 ![BR Traders - About Us Page](screenshots/brtraders-about.jpg)
 
 </details>
+
+---
+
+## 9. Spasation — Salon & Spa Website
+
+**Role:** WordPress Developer
+**Tech Stack:** WordPress, Elementor, Slider Revolution, Zenoti (online booking), Google Tag Manager, Cloudflare
+**Live Link:** [https://www.spasation.com/](https://www.spasation.com/)
+
+A website for Spasation Salon & Spa, a beauty spa and hair salon with three locations in Edmonton, Canada. The site lists all spa and salon services with prices, and lets customers book appointments and buy gift cards online through Zenoti.
+
+**Key features:**
+- Hero slider with promotions and a "Contact Us" call to action
+- Beauty Spa and Hair Salon menus covering massage, facials, laser hair removal, nails, brows and lashes, bridal hair and makeup, and more
+- Service cards with starting prices and "Book Now" buttons linked to Zenoti online booking
+- Gift card and e-certificate purchase through the Zenoti webstore
+- Location pages for Calgary Trail, Kingsway Mall, and Londonderry Mall, with a phone number for each in the top bar
+- Announcement bar for news like a new location opening
+- Link to the separate online product store
+
+**Home Page**
+
+![Spasation - Home Page](screenshots/spasation-home.jpg)
 
 ---
 
