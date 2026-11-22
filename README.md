@@ -19,6 +19,7 @@ Senior Full Stack Developer with 15+ years of experience building SaaS platforms
 | 7 | [AutoGlow Car Care](#7-autoglow-car-care--car-wash--detailing-website) | UI/UX Designer & Frontend Developer | React | [car-wash-react-componet.vercel.app](https://car-wash-react-componet.vercel.app/) |
 | 8 | [BR Traders](#8-br-traders--used-car-dealership-website) | Full Stack Developer | React, TypeScript, Tailwind CSS, Node.js | [br-traders-ten.vercel.app](https://br-traders-ten.vercel.app/) |
 | 9 | [Spasation](#9-spasation--salon--spa-website) | WordPress Developer | WordPress, Elementor, Zenoti | [spasation.com](https://www.spasation.com/) |
+| 10 | [NYOMS](#10-nyoms--oral--maxillofacial-surgery-practice-website) | Full Stack Developer | WordPress | [nyomsurgeons.com](https://www.nyomsurgeons.com/) |
 
 ---
 
@@ -218,6 +219,29 @@ A website for Spasation Salon & Spa, a beauty spa and hair salon with three loca
 **Home Page**
 
 ![Spasation - Home Page](screenshots/spasation-home.jpg)
+
+---
+
+## 10. NYOMS — Oral & Maxillofacial Surgery Practice Website
+
+**Role:** Full Stack Developer
+**Tech Stack:** WordPress
+**Live Link:** [https://www.nyomsurgeons.com/](https://www.nyomsurgeons.com/)
+
+A WordPress website for NYOMS (Steven R. Schwartz, DDS), an oral and maxillofacial surgery practice in Brooklyn, New York. The practice diagnoses and treats conditions, injuries, and aesthetic concerns of the mouth, teeth, jaws, and face, so the site needed to explain these procedures clearly and make it easy for patients and referring dentists to get in touch.
+
+**Practice specialties covered on the site:** dental implants (including all phases of hard and soft tissue grafting), dento-alveolar surgery, and outpatient anesthesia.
+
+**Key features:**
+- Full-screen video hero with the practice name and specialty
+- Top bar with phone number, office hours, address, and social links (Facebook, Google, Yelp)
+- Dropdown menus for About Us, Patient Information, and Procedures
+- Patient and referral forms section for new patients and referring dentists
+- Contact page with the office location and opening hours
+
+**Home Page**
+
+![NYOMS - Home Page](screenshots/nyoms-hero.jpg)
 
 ---
 
